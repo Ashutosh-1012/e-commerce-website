@@ -131,7 +131,7 @@ left: 20px;
     color: aqua;
  }
  #hero button{
-    background-image: url("/img/button.png");
+    background-image: url("img/button.png");
     background-color: transparent;
     color: aquamarine;
     border: 0;
